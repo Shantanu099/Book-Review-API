@@ -169,3 +169,6 @@ updatedAt: Date
 
 To run the development server:
 npm run dev
+
+ER Diagram
+![image](https://github.com/user-attachments/assets/4e1324b6-be26-4aa5-88ae-9df8f10161bf)
